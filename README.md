@@ -1,69 +1,38 @@
-# Welcome to your Lovable project
+# 🌐 Online Harm Detection Tool
 
-## Project info
+A browser extension designed to help users stay safe online by detecting and filtering harmful content in real time.
 
-**URL**: https://lovable.dev/projects/1749aa68-0c4e-4c41-86cf-3d55febf39a1
+## 🔑 Features
 
-## How can I edit this code?
+- **Harmful Content Detection**  
+  Identifies toxic language such as hate speech, bullying, threats, and NSFW material.
 
-There are several ways of editing your application.
+- **Smart Categorization**  
+  Flags content under categories like Harassment, Extremism, and Misinformation.
 
-**Use Lovable**
+- **Manual Review Option**  
+  Lets users review and report content for better accuracy.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/1749aa68-0c4e-4c41-86cf-3d55febf39a1) and start prompting.
+- **Real-Time Filtering**  
+  Instantly hides harmful content from websites while browsing.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🔮 Upcoming Improvements
 
-**Use your preferred IDE**
+- **Better UI/UX**  
+  More intuitive and accessible design for all users.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Separate Modes for Blind & Deaf Users**  
+  Custom interfaces for visually and hearing-impaired users.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Gamified Experience**  
+  Add rewards and challenges to encourage safe browsing.
 
-Follow these steps:
+- **Sign Language Support**  
+  AI-powered sign language interaction for greater accessibility.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Learning History**  
+  Save flagged content history and personalize future moderation.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/1749aa68-0c4e-4c41-86cf-3d55febf39a1) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+This tool aims to make online browsing safer, smarter, and more inclusive.
